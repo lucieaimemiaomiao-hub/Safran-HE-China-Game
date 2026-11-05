@@ -1,2 +1,2 @@
-# Safran-HE-China-Game
+# SHETGAME
 消消乐
